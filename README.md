@@ -2,8 +2,6 @@
 
 This is the code for LiReddit API. To see the code for LiReddit Web, [click here ](https://github.com/felipemmendes/lireddit-web).
 
-## See live at: https://lireddit.fmmendes.com
-
 LiReddit is a Reddit-like website created following [Ben Awad's tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8).
 
 <br/>
